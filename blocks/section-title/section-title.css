@@ -1,0 +1,13 @@
+.section-title {
+    margin: 0 0 20px;
+    font-weight: bold;
+    line-height: 1.15;
+    text-align: center;
+    font-size: 60px;
+    width: 60%;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   } 
+   

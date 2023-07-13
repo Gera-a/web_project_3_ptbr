@@ -1,0 +1,12 @@
+.kaufman__triangle {
+    position: absolute;
+    width: 660px;
+    height: 636px;
+    z-index: 0;
+    right: -124px;
+    animation-name: rotation;
+    animation-duration: 20s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+  }
+  
